@@ -74,3 +74,5 @@ require(['jquery'],function($){
 2. 把r.js放到项目目录下
 3. 配置打包文件build.js
 4. 执行命令 node r.js -o build.js
+
+# 加入mine-ioo文件夹（练习）
